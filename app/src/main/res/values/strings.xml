@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZCG App</string>
+
+    <string name="promotion"> Promotion </string>
+
+    <string name="exist_app"> Exit App </string>
+    <string name="want_close_app"> Are you sure you want to close this app? </string>
+    <string name="Yes"> Yes </string>
+    <string name="no"> No </string>
+
+
+    <string name="products"> Products </string>
+    <string name="gridBanner"> Grid Banner </string>
+</resources>
